@@ -1,6 +1,6 @@
 ### CharlotteOS
 
-# Purrnel
+# Morphism
 
 ### Implementation Languages
 - Rust
@@ -11,6 +11,7 @@
 - Aarch64 (Secondary)
 
 *UEFI and ACPI are required on all targets. If your system does not currently support them then please contact your hardware vendor.
+Note that on certain ARM machines Das U-Boot may be able to provide these interfaces if compiled and configured to do so.
 
 ### Contributing
 
